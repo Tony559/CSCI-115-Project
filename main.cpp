@@ -25,6 +25,8 @@ int main() {
 
     
     Map m("map1.txt");
+    cout << endl;
+    Map m1("map2.txt");
 }
 
 
